@@ -1,4 +1,4 @@
-# AI-Workshop-207
+# AI-Workshop-IT207
 Artificial Intelligence Lab for IT 207
 
 Section 1 — Command Description
